@@ -19,7 +19,7 @@
 
     <properties>
         <dialogflow.version>1.0.0</dialogflow.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>LATEST</lombok.version>
     </properties>
 
     <dependencies>
